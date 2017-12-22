@@ -1,0 +1,2 @@
+# controller
+puppet env
